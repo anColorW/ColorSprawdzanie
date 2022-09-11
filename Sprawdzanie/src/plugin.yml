@@ -1,0 +1,14 @@
+name: ColorSprawdzanie
+version: 0.2
+main: me.colorwell.sprawdzanie.Main
+
+commands:
+  sprawdz:
+    description: 
+  czysty:
+    description: 
+  setsprawdz:
+    description: 
+  setczysty:
+    description: 
+  
